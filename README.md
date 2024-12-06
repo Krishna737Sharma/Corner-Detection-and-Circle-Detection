@@ -31,5 +31,5 @@ This repository contains solutions to the image processing assignment, which cov
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-processing-assignment.git
+git clone https://github.com/Krishna737Sharma/image-processing-assignment.git
 cd image-processing-assignment
